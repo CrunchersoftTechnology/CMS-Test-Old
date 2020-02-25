@@ -1,0 +1,144 @@
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Yogesh\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Yogesh\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+E:\Yogesh\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+E:\Yogesh\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\CMS.Common.pdb
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.xml
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.csprojResolveAssemblyReference.cache
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Domain\obj\Debug\CMS.Domain.pdb

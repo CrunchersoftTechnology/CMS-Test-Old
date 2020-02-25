@@ -1,0 +1,44 @@
+E:\Yogesh\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+E:\Yogesh\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+E:\Yogesh\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+E:\Yogesh\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+E:\Yogesh\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+E:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\Yogesh\ARPITA PROJECTS\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\sheetal\Arpita - Copy\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\sheetal\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\sheetal\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\sheetal\Arpita - Copy\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\sheetal\Arpita\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\arpita work 04-09-2019\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\ArpitaApp\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+E:\Krunal\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+E:\Krunal\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+E:\Krunal\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+E:\Krunal\Arpita Web Portal\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
